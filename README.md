@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aavash</h1>
-<h3 align="center">Interested in Data, now moving towards software engineering.</h3>
+
 # 💫 About Me:
 - 👋 Hi, I’m Aavash252
-- 👀 I’m interested in Data Analysis , Machine learning and building web app
+- 👀 I’m interested in Data Analysis , Machine learning and now moving towards building web apps
 - 🌱 I’m currently learning Dotnet.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavash252&label=Profile%20views&color=0e75b6&style=flat" alt="aavash252" /> </p>
