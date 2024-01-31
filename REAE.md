@@ -2,7 +2,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m Aavash252
 - 👀 I’m interested in Data Analysis , Machine learning and now moving towards building web apps
-- 🌱 I’m currently learning Dotnet.
+- 🌱 I’m currently Working on  Dotnet.
+- 🌱 I’m currently learning ReactJs.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavash252&label=Profile%20views&color=0e75b6&style=flat" alt="aavash252" /> </p>
 
