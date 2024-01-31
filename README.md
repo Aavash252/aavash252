@@ -20,7 +20,7 @@
 <br>
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet,mysql,html,js,react,python,jquery,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql,html,bootstrap,js,react,python,jquery,git,tensorflow" />
    
 </a>
 </p>
