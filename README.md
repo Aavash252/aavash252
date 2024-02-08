@@ -24,8 +24,9 @@
    
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aavash252&" alt="aavash252" /></p>
+
 
 # 📊 GitHub Stats:
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=aavash252&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aavash252&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
